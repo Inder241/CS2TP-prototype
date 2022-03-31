@@ -11,8 +11,6 @@ Stuff Covered in the game as now:
 - tutorial with a single player "try"
 - sound track
 - 2 more levels with new bosses to fight against
+- leaderboard
 
-Stuff that still needs covering: 
 
--leader board ( if there is still time )
--animations ( if there is still time )
