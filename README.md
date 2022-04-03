@@ -13,4 +13,5 @@ Stuff Covered in the game as now:
 - 2 more levels with new bosses to fight against
 - leaderboard
 
+Please look at the final Scripts and final release. 
 
